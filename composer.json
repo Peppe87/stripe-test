@@ -1,0 +1,17 @@
+{
+    "name": "peppe87/stripe-test",
+    "type": "drupal-module",
+    "description": "test",
+    "keywords": [
+        "Drupal"
+    ],
+    "homepage": "https://github.com/lullabot/message_integration",
+    "require": {
+        "drupal/core": "^8.6 || ^9.0",
+        "drupal/commerce": "^2.25 || ^3",
+        "stripe/stripe-php": "^7.25"
+    },
+    "extra": {
+        "patches": {}
+    }
+}
